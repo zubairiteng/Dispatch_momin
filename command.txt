@@ -1,0 +1,3 @@
+
+
+pyinstaller --onefile --add-data "driver;driver" --add-data "opera;opera" --add-data "profile;profile" main.py
